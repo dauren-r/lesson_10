@@ -2,7 +2,7 @@
 📦 Установка
 Клонируйте репозиторий:
 
-git clone https://github.com/USERNAME/REPO_NAME.git
+git clone https://github.com/dauren-r/lesson_10.git
 cd REPO_NAME
 
                   
@@ -41,7 +41,7 @@ open _build/html/index.html  # Windows: start _build/html/index.html
 Документация автоматически собирается и публикуется на GitHub Pages при каждом коммите в ветку main.
 
 Ссылка на документацию:
-👉 https://USERNAME.github.io/REPO_NAME/
+👉 https://dauren-r.github.io/lesson_10/
 
 🛠️ Основные команды разработки
 Цель	Команда
